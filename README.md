@@ -74,6 +74,17 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - API documentation, see [Swagger](http://swagger.io/)
 - Service Discovery, see [Consul](https://www.consul.io/), [etcd](https://coreos.com/etcd/docs/latest/), DNS
 
-- 
+## Isolate Failures
+- M. aren't reliable by default
+- Cascading failures can hurt
+- Timeouts
+
+## Highly Observable
+- Standrad monitoring
+- Service monitoring, see [docker stats](https://docs.docker.com/engine/reference/commandline/stats/), [collectd](https://collectd.org/)
+- Health check pages
+- Log aggregation, see [Logstash](https://www.elastic.co/products/logstash), [fluentd](http://www.fluentd.org/), [kibana](https://www.elastic.co/products/kibana) 
+
+
 
 
