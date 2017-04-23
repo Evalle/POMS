@@ -68,6 +68,12 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - Multiple enpoints (e.g. another API version of the same service)
 
 ## Consumer First
- 
+- Conversations
+- Consumer-driven contracts, see [Pact](https://docs.pact.io/)
+- Standards, see [PayPal API standards for example](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+- API documentation, see [Swagger](http://swagger.io/)
+- Service Discovery, see [Consul](https://www.consul.io/), [etcd](https://coreos.com/etcd/docs/latest/), DNS
+
+- 
 
 
