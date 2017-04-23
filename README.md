@@ -54,9 +54,9 @@ The Microservices are just one of the implementations of Service Oriented Archit
 ### Culture of Automation
 - Continous Delivery (build -> test -> UAT -> prod)
 - API - driven machine provisioning (creating a new node via API), see AWS, DO, OpenStack, Vagrant, etc
-- API - driven OS configurationm, see Chef, Puppet, Ansible 
-- Custom image creation, see Packer
-- Declarative environment provisioning, see Docker Compose, Terraform
+- API - driven OS configurationm, see [Chef](https://www.chef.io/chef/), [Puppet](https://puppet.com/), [Ansible](https://www.ansible.com/) 
+- Custom image creation, see [Packer](https://www.packer.io/)
+- Declarative environment provisioning, see [Docker Compose](https://docs.docker.com/compose/), [Terraform](https://www.terraform.io/)
 - Automatic testing
 
 ### Hide implementation Details
@@ -65,7 +65,7 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - Be careful of client libraries
 
 ### Decentralise all the things
-- internal open source model, see Gitlab
+- internal open source model, see [Gitlab](https://about.gitlab.com/)
 - orchestration
 - self-service
 - owner operator (each team is the main operator of their piece of software)
