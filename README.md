@@ -84,6 +84,16 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - Service monitoring, see [docker stats](https://docs.docker.com/engine/reference/commandline/stats/), [collectd](https://collectd.org/)
 - Health check pages
 - Log aggregation, see [Logstash](https://www.elastic.co/products/logstash), [fluentd](http://www.fluentd.org/), [kibana](https://www.elastic.co/products/kibana) 
+- State aggregation, see [Graphite](https://graphiteapp.org/)
+- Semantic monitoring (for example try to mock user actions each 5 minutes)
+- Correlation ID (every action with ID, so you can catch it on every M. logs by this ID)
+
+## When YOU should use M
+- What are you looking for?
+- What kind of problem from the M. advantages are you trying to solve?
+
+## Useful Books
+1. 
 
 
 
