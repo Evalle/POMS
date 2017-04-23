@@ -2,7 +2,7 @@
 The main ideas from the ["Principles of Microservices"](http://shop.oreilly.com/product/0636920043935.do) course
 
 ## Table of Contents
-1. [introduction](#introduction)  
+1. [Introduction](#introduction)  
 2. [Advantages of Microservices](#advantages-of-m)
 3. [Disadvantages of Microservices](#disadvantages-of-m)
 4. [Principles of Microservices](#principles-of-m)
