@@ -4,8 +4,8 @@ The main ideas from the ["Principles of Microservices"](http://shop.oreilly.com/
 ## Table of Contents
 1. [introduction](#introduction)  
 2. [Advantages of Microservices](#advantages-of-m)
-3. [Disadvantages of Microservices)(#disadvantages-of-m)
-4. 
+3. [Disadvantages of Microservices](#disadvantages-of-m)
+4. [Principles of Microservices](#principles-of-m)
 
 
 ### Introduction
@@ -29,7 +29,7 @@ The Microservices are just one of the implementations of Service Oriented Archit
   - disrtibutes systems are hard! - with Monolith you have a binary state - it's up or down, with M. some of your services can be down,
   another - up and running.
   
-### Principles of M:
+### Principles of M
   1. Modelled around business domain
   2. Culture of automation
   3. Hide implementation details
@@ -88,11 +88,11 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - Semantic monitoring (for example try to mock user actions each 5 minutes)
 - Correlation ID (every action with ID, so you can catch it on every M. logs by this ID)
 
-## When YOU should use M
+### When YOU should use M
 - What are you looking for?
 - What kind of problem from the M. advantages are you trying to solve?
 
-## Useful Books
+### Useful Books
 1. 
 
 
