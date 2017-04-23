@@ -53,7 +53,7 @@ The Microservices are just one of the implementations of Service Oriented Archit
 
 ### Culture of Automation
 - Continous Delivery (build -> test -> UAT -> prod)
-- API - driven machine provisioning (creating a new node via API), see AWS, DO, OpenStack, Vagrant, etc
+- API - driven machine provisioning (creating a new node via API), see [AWS](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/), [OpenStack](https://www.openstack.org/), [Vagrant](https://www.vagrantup.com/), etc
 - API - driven OS configurationm, see [Chef](https://www.chef.io/chef/), [Puppet](https://puppet.com/), [Ansible](https://www.ansible.com/) 
 - Custom image creation, see [Packer](https://www.packer.io/)
 - Declarative environment provisioning, see [Docker Compose](https://docs.docker.com/compose/), [Terraform](https://www.terraform.io/)
