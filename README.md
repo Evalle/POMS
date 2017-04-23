@@ -7,7 +7,15 @@ The main ideas from the ["Principles of Microservices"](http://shop.oreilly.com/
 3. [Disadvantages of Microservices](#disadvantages-of-m)
 4. [Principles of Microservices](#principles-of-m)
    - [Modelled around Business Domain](#modelled-around-business-domain)
-
+   - [Culture of automation](#culture-of-automation)
+   - [Hide implementation details](#hide-implementation-details)
+   - [Decentralise all the things](#decentralise-all-the-things)
+   - [Deploy independently](#deploy-independently)
+   - [Consumer first](#consumer-first)
+   - [Isolate failures](#isolate-failures)
+   - [Highly observable](#highly-observable)
+5. [When YOU should use Microservices](#when-you-should-use-m)
+6. [Useful Books](#useful-books)
 
 ### Introduction
 The Microservices (M) are small, **autonomous** services that work together
@@ -56,7 +64,7 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - Think about protocols: YAML. JSON, XML, SOAP
 - Be careful of client libraries
 
-### Decentralize all the things
+### Decentralise all the things
 - internal open source model, see Gitlab
 - orchestration
 - self-service
