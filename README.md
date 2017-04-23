@@ -39,16 +39,35 @@ The Microservices are just one of the implementations of Service Oriented Archit
   7. Isolate failure
   8. Highly observable
 
-## 1. Modelled around Business Domain
+## Modelled around Business Domain
 [Presentation] -> [Business Logic] -> [Data Access] - jst a simple example.
 
-## 2. Culture of automation
+## Culture of Automation
 - Continous Delivery (build -> test -> UAT -> prod)
 - API - driven machine provisioning (creating a new node via API), see AWS, DO, OpenStack, Vagrant, etc
 - API - driven OS configurationm, see Chef, Puppet, Ansible 
 - Custom image creation, see Packer
-- 
-  
+- Declarative environment provisioning, see Docker Compose, Terraform
+- Automatic testing
+
+## Hide implementation Details
+- Hide your DB!
+- Think about protocols: YAML. JSON, XML, SOAP
+- Be careful of client libraries
+
+## Decentralize all the things
+- internal open source model, see Gitlab
+- orchestration
+- self-service
+- owner operator (each team is the main operator of their piece of software)
+
+## Deploy Independently
+- One service per OS/VM/Container
+- Consumer-driven contracts, see [Pact](https://docs.pact.io/)
+- Co-existing service versions
+- Multiple enpoints (e.g. another API version of the same service)
+
+## Consumer First
  
 
 
