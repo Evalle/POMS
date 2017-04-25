@@ -105,7 +105,12 @@ The Microservices are just one of the implementations of Service Oriented Archit
 1. ["Building Microservices: Designing Fine-Grained Systems"](http://shop.oreilly.com/product/0636920033158.do?cmp=af-code-books-video-product_cj_0636920033158_7739078) by Sam Newman
 2. ["Continuous Delivery" ](https://www.amazon.com/dp/0321601912?tag=contindelive-20) by Jez Humble
 3. ["Domain-Driven Design"](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
-
+4. ["Service-Oriented Architecture (SOA): Concepts, Technology, and Design"](https://www.amazon.com/Service-Oriented-Architecture-SOA-Concepts-Technology/dp/0131858580) by Thomas Erl
+5. ["I Heart Logs: Event Data, Stream Processing, and Data Integration"](https://www.amazon.com/Heart-Logs-Stream-Processing-Integration/dp/1491909382/ref=sr_1_1?s=books&ie=UTF8&qid=1493119886&sr=1-1&keywords=i+heart+logs) by Jay Kreps
+6. ["Infrastructure as Code: Managing Servers in the Cloud"](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357/ref=sr_1_1?s=books&ie=UTF8&qid=1493119925&sr=1-1&keywords=infrastructure+as+code) by Kief Morris
+7. ["The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise"](https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802/ref=sr_1_1?s=books&ie=UTF8&qid=1493119985&sr=1-1&keywords=the+art+of+scalability) by Martin L. Abbott
+8. ["Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)"](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/ref=sr_1_1?s=books&ie=UTF8&qid=1493120112&sr=1-1&keywords=design+and+deploy+production+ready) by Michael T. Nygard
+9. ["Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization"](https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=asap_bc?ie=UTF8) by Susan J. Fowler
 
 
 
