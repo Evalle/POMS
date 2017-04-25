@@ -102,7 +102,9 @@ The Microservices are just one of the implementations of Service Oriented Archit
 - What kind of problem from the M. advantages are you trying to solve?
 
 ### Useful Books
-1. 
+1. ["Building Microservices: Designing Fine-Grained Systems" by Sam Newman](http://shop.oreilly.com/product/0636920033158.do?cmp=af-code-books-video-product_cj_0636920033158_7739078)
+2. ["Continuous Delivery" by Jez Humble](https://www.amazon.com/dp/0321601912?tag=contindelive-20)
+3. ["Domain-Driven Design" by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 
 
